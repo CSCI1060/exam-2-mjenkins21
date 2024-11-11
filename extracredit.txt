@@ -1,2 +1,2 @@
-Use this file to submit the extra credit problem. Be sure to describe your
-process for solving the problem, and not just to give the solution. 
+Decrypted code: 'I wish it need not have happened in my time,' said Frodo. 'So do I,' said Gandalph, 'And so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time given to us.
+First, I made a chart of the alphabet and looked to see if there were any single letter words in the cipher. Seeing that the  first word was just 'L', I determined that it could be either A or I. Guessing A first, I created a shifted by 11 alphabet under my original alphabet to decode the cipher. Getting 'OAKZ' as the second word, I knew that solution was wrong. Pivoting to the letter I as the first word, I then shifted the alphabet by 3. Thus resulting in the second word, 'WISH' and I finished the code.
